@@ -1,2 +1,3 @@
 # Repo
-Projeto MineGen AI
+
+Gerado por MineGen AI
