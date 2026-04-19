@@ -1,0 +1,2 @@
+# Repo
+Projeto MineGen AI
